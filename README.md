@@ -1,1 +1,1 @@
-# Table
+# Gerbang-Logika
